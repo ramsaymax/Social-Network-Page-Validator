@@ -45,9 +45,7 @@ All search and subscriber counter requests/results are cached. Delete the conten
 Input filename is `Social Link Validation Data - Sheet1.csv` exported from google sheets as csv, edit the filename in `validator.py`.
 
 
-###Output Examples
-
-Here are examples of what the output CSV columns could potentially look like after the script has been run.
+###Output 
 
 extendedpresence.csv
 completematch.csv
