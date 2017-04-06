@@ -53,4 +53,3 @@ partialmatch.csv
 zeromatch.csv
 newaccounts.csv
 
-see pdf file + png image
